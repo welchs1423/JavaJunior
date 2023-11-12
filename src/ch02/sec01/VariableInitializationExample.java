@@ -11,7 +11,7 @@ public class VariableInitializationExample {
 		//변수를 선언하고, 초기값을 저장
 		int score = 90;
 		
-		int value; = 5
+		int value = 5;
 		int result = value + 10;
 	}
 

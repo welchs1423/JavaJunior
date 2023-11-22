@@ -18,8 +18,8 @@ public class D extends A {
 
 	// 메소드 선언
 	public void method2() {
-		A a = new A();
-		a.field = "value";
-		a.method();
+		//A a = new A();
+		//a.field = "value";
+		//a.method();
 	}
 }
